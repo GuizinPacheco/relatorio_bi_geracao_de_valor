@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 
-Obejivo integrar MySQL no Azure e Power BI. Inicialmente, para criação de um relatório.
+objetivo integrar MySQL no Azure e Power BI. Inicialmente, para criação de um relatório.
 
 ## Etapas Realizadas
   De forma resumida: 
